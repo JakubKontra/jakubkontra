@@ -1,4 +1,5 @@
-Hi 👋 My name is Jakub Kontra
+Hi 👋,
+My name is Jakub Kontra
 =============================
 
 Javascript Developer
