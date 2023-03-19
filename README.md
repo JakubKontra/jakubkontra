@@ -7,4 +7,4 @@ a technology junkie and a passionate developer who loves to work with React and 
 
 * 🌍  Based in Central Europe
 * ✉️  You can contact me at [me@jakubkontra.com](mailto:me@jakubkontra.com)
-* 🚀  Currently I'm working on [FitifyApps](http://gofitify.com)
+* 🚀  Currently part of the best crew working on [FitifyApps](http://gofitify.com)
